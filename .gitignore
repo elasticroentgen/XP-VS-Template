@@ -5,6 +5,9 @@
 
 # Compiled Dynamic libraries
 *.so
+*.dll
+*.pdb
+*.tlog
 
 # Compiled Static libraries
 *.lai
